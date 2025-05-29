@@ -4,7 +4,8 @@
   "description": "Certifcicación UiPath Automation Developer Professional Training",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.4.3]"
+    "UiPath.System.Activities": "[25.4.3]",
+    "UiPath.Testing.Activities": "24.10.1"
   },
   "webServices": [],
   "entitiesStores": [],
